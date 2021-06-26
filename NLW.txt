@@ -1,0 +1,8 @@
+/**
+ * Tipos de parametros
+ * Routes Params => caminho da rota
+ * Query Params => parametros ?name="teclado"&description="teclado bom"
+ * Body Params => {
+ *  name: "teclado"
+ * }
+ */
